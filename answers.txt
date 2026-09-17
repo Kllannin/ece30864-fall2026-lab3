@@ -1,0 +1,8 @@
+Question a)
+    Pros:
+        1. Increased adaptability during product development due to multiple iterations of revising the planned design based on prior feedback/review.
+        2. Better potential for upholding the expected functionality of the stakeholder and spec, as functionality can be tweaked mid-development.
+
+    Cons:
+        1. Not always compatible with certain projects that might require predictable, set development timelines or resource limitations.
+        2. Can potentially occur in drifting from the original project expectations due to a lesser emphasis on the initial planning/design of the product.
