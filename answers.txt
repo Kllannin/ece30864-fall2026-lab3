@@ -16,3 +16,17 @@ Question b)
         - Reviews the deliverable of each major milestone in the product development lifecycle.
         - Directly interacts with product stakeholders/customers to obtain the project requirements, and communicates those to the Scrum Master.
         - Responsible for ensuring the final deliverable of the product adheres to expectations/requirements.
+
+Question c)
+    3 Types of meetings during a sprint cycle:
+        1. Sprint Planning
+            - To discuss at the beginning of a sprint what must be worked on during the sprint.
+            - Creates the backlog to structure exactly how the work must be done.
+
+        2. Daily Scrum
+            - Discuss/review current progress towards the goal of the sprint.
+            - Edit the sprint backlog to account for the upcoming day, based off the insights gained from the review.
+
+        3. Sprint Review
+            - Review the state of the sprint goal at the end of the sprint, i.e. whether it met expectations or not.
+            - Get stakeholder feedback on the current progress of the product, so that it can be applied to the upcoming sprint.
