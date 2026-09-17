@@ -6,3 +6,13 @@ Question a)
     Cons:
         1. Not always compatible with certain projects that might require predictable, set development timelines or resource limitations.
         2. Can potentially occur in drifting from the original project expectations due to a lesser emphasis on the initial planning/design of the product.
+
+Question b)
+    Scrum Master:
+        - Responsible for leading the agile development teams and thus the overall direction of the development of the product itself.
+        - Manages team meetings and design reviews to ensure the product is still set to fulfill its active milestone.
+    
+    Product Owner:
+        - Reviews the deliverable of each major milestone in the product development lifecycle.
+        - Directly interacts with product stakeholders/customers to obtain the project requirements, and communicates those to the Scrum Master.
+        - Responsible for ensuring the final deliverable of the product adheres to expectations/requirements.
