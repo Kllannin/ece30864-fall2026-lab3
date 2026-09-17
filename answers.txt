@@ -30,3 +30,13 @@ Question c)
         3. Sprint Review
             - Review the state of the sprint goal at the end of the sprint, i.e. whether it met expectations or not.
             - Get stakeholder feedback on the current progress of the product, so that it can be applied to the upcoming sprint.
+
+Question d)
+    JIRA issue types:
+        - Epic: The broadest issue type that contains Story, Bug, and Task issues. Epic issues represent significant, high-level product features/requirements.
+        
+        - Story: An issue in-between the high-level significance of an Epic and low-level Tasks. Represents a small/medium-sized portion of work that accounts for the portion of the development of an Epic (or non-Epic, broader feature).
+
+        - Task: An issue type representing a low-level, typically small piece of work that contributes to an Epic or Story.
+
+        - Bug: A feature or element of the product that is currently malfunctioning or misaligned with the project requirements and needs fixing.
